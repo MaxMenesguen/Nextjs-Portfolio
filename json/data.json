@@ -1,0 +1,89 @@
+{
+  "Projects": [
+    {
+      "title": "Drone Swarm Behaviour Simulation",
+      "desc": [
+        "This research project focuses on simulating and controlling virtual clones of Crazyflie drones using Unity, employing boid-like behavior. The drones autonomously avoid obstacles and respond to attraction points, enabling dynamic and flexible swarm control. The virtual system mirrors the communication protocols of real drones, allowing for seamless transitions from simulation to real-world Crazyflie drone control. Users can interactively adjust parameters, such as the number of drones and obstacles, to create different dynamic scenarios.",
+        "This project highlights how advanced simulation can simplify real-world drone swarm control. By simulating real-world behaviors like obstacle avoidance and swarm coordination, it provides a foundation for testing new drone control techniques in a safe, scalable environment before implementing them with actual drones. The project’s versatility allows users to explore how self-organizing swarm algorithms can be used to achieve complex behaviors with minimal user input."
+      ],
+      "year": "2024",
+      
+      "code": "https://github.com/MaxMenesguen/UnityDroneSwarm",
+      "images": [
+        "/projects/droneswarm/drones attraction42.png",
+        "/projects/droneswarm/photp drones and obstacles 1.png",
+        "/projects/droneswarm/photo drones and obstacles 4.png"
+      ],
+      "tech": [
+        "Unity",
+        "Boid Algorithms",
+        "Crazyflie Drones",
+        "Real-time Communication"
+      ],
+      "slug": "drone-swarm-behaviour"
+    },
+    {
+      "title": "Key Starter (Kickstarter Crowdfunding Project)",
+      "desc": [
+        "As part of a Kickstarter class, the Key Starter project involved imagining, prototyping, and launching a crowdfunding campaign for an eco-friendly, leather key holder. The project emphasized product design, project management, communication, and marketing strategies to develop and promote the product successfully on Kickstarter.",
+        "Through this project, the team surpassed their investment goal, demonstrating effective teamwork, public engagement, and the capability to create and manage a campaign from concept to successful funding. The Key Starter project helped refine key skills such as team collaboration, product development, and building a compelling pitch for crowdfunding audiences."
+      ],
+      "year": "2023",
+      "preview": "https://www.kickstarter.com/projects/1485002358/quickstarter-key-starter",
+      
+      "images": [
+        "/projects/kickstarter/keybanger.jpg"
+        
+      ],
+      "tech": [
+        "Team Management",
+        "Design",
+        "Business Development",
+        "Kickstarter Campaign"
+      ],
+      "slug": "key-starter"
+    },
+    {
+      "title": "Arduino Multiplayer Game",
+      "desc": [
+        "Developed a retro-inspired multiplayer game using custom-built PCBs with ESP32 modules, entirely coded in C++. The game features OLED displays to present retro-style graphics and utilizes UDP networking for real-time multiplayer functionality. This hands-on project allowed participants to learn about communication protocols and game development at the hardware level.",
+        "The core challenge involved managing real-time communication between players using Wi-Fi capabilities of ESP32 modules. The game’s multiplayer aspect, implemented via UDP, allowed players to interact seamlessly, making it an exciting blend of electronics prototyping, programming, and gameplay mechanics. This project was a great opportunity to explore networked embedded systems and develop retro-inspired interactive content."
+      ],
+      "year": "2023",
+      
+      "code": "https://github.com/RomainTheron22/Bike-Wars-Neon-Riders",
+      "images": [
+        "/projects/Arduino-Game/arduino-game.png"
+        
+      ],
+      "tech": [
+        "ESP32",
+        "C++",
+        "OLED Displays",
+        "UDP Networking"
+      ],
+      "slug": "arduino-multiplayer-game"
+    },
+    {
+      "title": "Low-Tech Wearable Interaction System",
+      "desc": [
+        "This project involves developing a low-tech wearable system that allows users to interact with digital content through body movements. Handmade sensors attached to the user's fingers allow them to control functionalities such as play/pause and volume adjustment. The wearable system focuses on leveraging simple, accessible technology to achieve intuitive control over digital devices.",
+        "The primary goal was to create a tangible user interface that interacts with digital systems in a simple, low-tech manner. The sensors are sewn into gloves, allowing the user to control digital music by touching or sliding their fingers across handmade sensors. This project is a demonstration of how simple technologies can be designed for intuitive, human-centric interactions."
+      ],
+      "year": "2023",
+      "preview": "https://ift.devinci.fr/BioTouchLink",
+      
+      "images": [
+        "/projects/Low-Tech-Project/low-tech-project.jpg"
+        
+      ],
+      "tech": [
+        "Handmade Sensors",
+        "Wearable Technology",
+        "Interaction Design",
+        "Physical Computing"
+      ],
+      "slug": "low-tech-wearable"
+    }
+  ]
+}
