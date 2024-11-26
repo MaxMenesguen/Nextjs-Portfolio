@@ -84,10 +84,11 @@ const MyPage = () => {
 											delay: 0.4,
 											type: "spring",
 										}}>
-										Hi, I'm Maximilien Menesguen, an engineering student with a passion for mechatronics, 
+										Hi, I&apos;m Maximilien Menesguen, an engineering student with a passion for mechatronics, 
 										drone technologies, and automation. From developing digital twins of drone swarms to 
 										building and racing DIY FPV drones, I thrive on innovation and creativity in high-tech 
 										systems. Welcome to my portfolio!
+
 									</motion.p>
 									<motion.div
 										className="buttons flex flex-row justify-center items-center space-x-4 mt-10"
